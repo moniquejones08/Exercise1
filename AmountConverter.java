@@ -1,4 +1,3 @@
-
 public class AmountConverter {
 	Integer currentDigit = null, lastDigit = null, totalDigits = null, currentNum = null;
 	String stringValue = "", dollars = "";
